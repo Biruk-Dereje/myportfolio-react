@@ -110,7 +110,7 @@
   }
 
   .project-card {
-    @apply glass-card overflow-hidden group cursor-pointer hover:border-primary/40 
+    @apply glass-card overflow-hidden cursor-pointer hover:border-primary/40 
            hover:shadow-[0_0_40px_rgba(45,212,191,0.1)] transition-all duration-500;
   }
 
