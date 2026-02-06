@@ -30,7 +30,6 @@ const Footer = () => {
             transition={{ duration: 0.5, delay: 0.1 }}
             viewport={{ once: true }}
           >
-            Made with <Heart className="w-4 h-4 text-red-500 fill-red-500" /> in Ethiopia
           </motion.p>
 
           {/* Social Links */}

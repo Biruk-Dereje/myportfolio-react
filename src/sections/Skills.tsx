@@ -86,9 +86,11 @@ const Skills = () => {
           <div className="grid md:grid-cols-2 gap-6">
             {[
               { name: "React & JavaScript", level: 85 },
+              {name: "Python & Django", level: 85 },
+              { name: "Git & Version Control", level: 85 },
               { name: "Laravel & PHP", level: 80 },
               { name: "Database Design", level: 75 },
-              { name: "Git & Version Control", level: 85 },
+              { name: "REST API Development", level: 70 },
             ].map((skill, index) => (
               <div key={skill.name}>
                 <div className="flex justify-between mb-2">

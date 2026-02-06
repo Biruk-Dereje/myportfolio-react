@@ -17,7 +17,7 @@ const experiences = [
   },
   {
     title: "Web Development Intern",
-    company: "Banking Website Project",
+    company: "Bank of Abyssinia",
     period: "2023",
     description: [
       "Built responsive banking website interfaces",
